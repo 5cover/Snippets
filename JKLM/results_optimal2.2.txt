@@ -1,0 +1,170 @@
+INTERESSERAIENT : 15.87% {'RE', 'INT', 'TE', 'IEN', 'SS', 'ENT', 'NTE', 'ES', 'AIE', 'EN', 'RES', 'ER', 'RA', 'IN', 'SER', 'ESS', 'SE', 'TER', 'ERE', 'SSE', 'AI', 'ERA', 'NT', 'RAI', 'IE'}
+ANTICONSTITUTIONNELLEMENT : 11.20% {'ONN', 'ON', 'CO', 'TIT', 'AN', 'LLE', 'EM', 'ANT', 'EME', 'LEM', 'NS', 'TIO', 'NTI', 'MEN', 'TU', 'NE', 'ST', 'UTI', 'IC', 'ME', 'EL', 'ELL', 'NN', 'LE', 'UT', 'STI', 'CON', 'ITU', 'NNE', 'ONS', 'LL', 'IT', 'TI', 'ION', 'IO'}
+DEVALORISASSIEZ : 8.11% {'VAL', 'DEV', 'EZ', 'ISA', 'ASS', 'RIS', 'SIE', 'AS', 'VA', 'SI', 'IS', 'LO', 'RI', 'SSI', 'ALO', 'EV', 'OR', 'SA', 'LOR', 'DE', 'AL', 'ORI', 'IEZ', 'SAS'}
+TOURNAILLERONT : 4.63% {'ERO', 'OU', 'RON', 'NA', 'ONT', 'TOU', 'IL', 'RO', 'URN', 'RN', 'OUR', 'LER', 'ILL', 'NAI', 'UR', 'AIL', 'TO'}
+RESPECTABILISES : 3.86% {'EC', 'PE', 'BIL', 'LIS', 'AB', 'CT', 'SP', 'TA', 'TAB', 'ECT', 'ESP', 'SES', 'ISE', 'LI', 'BI', 'ILI'}
+BAROTRAUMATIQUE : 3.17% {'TR', 'AR', 'BA', 'QU', 'ROT', 'AU', 'IQU', 'UM', 'OT', 'MAT', 'ARO', 'QUE', 'MA', 'AT', 'ATI', 'IQ', 'TRA', 'BAR', 'TIQ', 'UE'}
+PLANCHEIERIONS : 2.75% {'ERI', 'RIO', 'NC', 'ANC', 'EI', 'LA', 'CHE', 'HEI', 'LAN', 'CH', 'HE', 'IER', 'PLA', 'PL'}
+HOSPITALO-UNIVERSITAIRE : 2.36% {'VE', 'UN', 'OS', 'NI', 'HO', 'NIV', 'PI', 'HOS', 'IV', 'RSI', 'IVE', 'IR', 'VER', 'SPI', 'ERS', 'RS', 'ITA', 'AIR', 'UNI', 'TAI'}
+APPROFONDISSAIS : 2.27% {'AIS', 'ND', 'PR', 'PP', 'FO', 'SAI', 'SSA', 'DI', 'PRO', 'OND', 'ISS', 'AP'}
+POTAMOGETONACEE : 1.97% {'OTA', 'OGE', 'ET', 'MO', 'OG', 'EE', 'CEE', 'AC', 'AM', 'ONA', 'PO', 'TON', 'GE', 'ACE', 'CE'}
+CARTILAGINEUSE : 1.80% {'AG', 'ILA', 'TIL', 'CAR', 'EUS', 'ART', 'GI', 'AGI', 'EU', 'US', 'INE', 'CA'}
+HYGROMETRICITES : 1.63% {'ETR', 'ICI', 'HY', 'ROM', 'RIC', 'ITE', 'OME', 'TES', 'TRI', 'OM', 'CI', 'GRO', 'GR'}
+EMBROUILLAMINIS : 1.46% {'BR', 'MI', 'UIL', 'MIN', 'MB', 'NIS', 'MBR', 'EMB', 'LAM', 'INI', 'LLA', 'UI'}
+BOULEGUASSENT : 1.37% {'UL', 'UA', 'SEN', 'BOU', 'LEG', 'UAS', 'BO', 'GU', 'EG', 'OUL', 'ULE'}
+ARCHIEPISCOPAT : 1.33% {'PAT', 'EP', 'HI', 'HIE', 'PA', 'SC', 'OP', 'RC', 'ARC'}
+TELEAFFICHAGES : 1.24% {'FIC', 'AGE', 'CHA', 'TEL', 'FF', 'FI', 'AF', 'HA', 'EA', 'AFF', 'GES', 'ELE'}
+CRENOTHERAPIES : 1.16% {'NO', 'ENO', 'NOT', 'RAP', 'TH', 'IES', 'PIE', 'CR', 'HER', 'REN'}
+SURMEDICALISEES : 1.07% {'ALI', 'DIC', 'CAL', 'ED', 'SEE', 'SU', 'SUR', 'EDI', 'EES', 'RM', 'ICA'}
+SYRINGOMYELIE : 0.94% {'MY', 'NG', 'NGO', 'ELI', 'LIE', 'SY', 'GO', 'YE', 'RIN', 'ING', 'YR'}
+DESHUMIDIFIAMES : 0.90% {'IDI', 'FIA', 'AME', 'IA', 'UMI', 'IAM', 'MID', 'IF', 'SH', 'ID', 'DES', 'IFI'}
+VICTIMOLOGUES : 0.90% {'VIC', 'CTI', 'UES', 'IM', 'MOL', 'LOG', 'TIM', 'VI', 'GUE', 'OGU', 'OL'}
+DEFENESTRERAS : 0.86% {'NES', 'DEF', 'RAS', 'FE', 'EF', 'FEN', 'RER', 'TRE'}
+DEMOUCHETTENT : 0.73% {'ETT', 'UC', 'EMO', 'TTE', 'DEM', 'OUC', 'HET', 'TEN'}
+IRRECUPERABLE : 0.73% {'REC', 'UP', 'RAB', 'BL', 'CU', 'RRE', 'ECU', 'ABL', 'PER', 'RR'}
+SUBORDONNAIT : 0.73% {'DO', 'RD', 'NNA', 'AIT', 'SUB', 'RDO', 'DON', 'UB', 'BOR'}
+FAVORITISME : 0.69% {'AV', 'SM', 'ITI', 'AVO', 'SME', 'TIS', 'FA', 'ISM', 'VO'}
+CARBONITRURANT : 0.64% {'ITR', 'TRU', 'RAN', 'ONI', 'BON', 'RU', 'ARB', 'URA'}
+ENSOUTANERIEZ : 0.64% {'OUT', 'RIE', 'ANE', 'NER', 'SOU', 'TAN', 'SO', 'UTA'}
+EURODEPUTE : 0.64% {'EPU', 'EUR', 'DEP', 'UTE', 'PUT', 'URO', 'OD', 'PU'}
+FRELATASSIONS : 0.60% {'FRE', 'LAT', 'SIO', 'FR', 'TAS', 'ELA', 'ATA'}
+ASTACICULTURE : 0.56% {'URE', 'STA', 'ACI', 'ICU', 'TAC', 'TUR', 'AST', 'LT'}
+BERGAMOTIER : 0.56% {'BE', 'GA', 'MOT', 'TIE', 'OTI', 'ERG', 'BER'}
+PHOTOREPORTAGE : 0.56% {'ORT', 'HOT', 'PH', 'TAG', 'POR', 'RTA', 'ORE', 'EPO', 'TOR'}
+CARIGNANS : 0.51% {'ANS', 'NAN', 'IGN', 'IG', 'GNA', 'ARI'}
+PANGERMANISTE : 0.51% {'GER', 'NGE', 'ANI', 'ERM', 'STE', 'RMA', 'PAN'}
+PHYTOCOSMETIQUE : 0.51% {'OC', 'OCO', 'ETI', 'PHY', 'YTO', 'COS', 'OSM'}
+ANTIRETROVIRALE : 0.43% {'OV', 'ALE', 'ROV', 'IRA', 'RAL', 'TRO', 'RET', 'VIR'}
+AUTOACCUSATRICE : 0.43% {'AUT', 'UTO', 'OA', 'CCU', 'CC', 'SAT', 'ICE'}
+CYCLOHEXANONE : 0.43% {'CL', 'ONE', 'CLO', 'XAN', 'CYC', 'YC', 'NON'}
+EQUATORIAUX : 0.43% {'EQU', 'AUX', 'QUA', 'EQ', 'RIA', 'UX'}
+FLANDRICISME : 0.43% {'FL', 'DR', 'AND', 'CIS', 'FLA', 'NDR', 'DRI'}
+ABREUVOIRS : 0.39% {'REU', 'OIR', 'ABR', 'IRS', 'UV', 'OI'}
+AEGAGROPILE : 0.34% {'PIL', 'ROP', 'GAG', 'ILE', 'AGR', 'OPI'}
+CANULARESQUE : 0.34% {'NU', 'ANU', 'ULA', 'SQ', 'ARE', 'LAR'}
+CARAMBOLEZ : 0.34% {'OLE', 'MBO', 'LEZ', 'ARA', 'BOL', 'RAM'}
+CONTRACEPTIVE : 0.34% {'RAC', 'PT', 'CEP', 'NTR', 'TIV'}
+FORLONGEONS : 0.34% {'GEO', 'RLO', 'LON', 'FOR', 'RL', 'EO', 'ONG'}
+IMMUNOGLOBULINE : 0.34% {'BU', 'MUN', 'OB', 'IMM', 'ULI', 'MU', 'GL'}
+PICROCHOLINS : 0.34% {'OLI', 'CRO', 'OCH', 'CHO', 'PIC', 'INS'}
+PRECOMMANDENT : 0.34% {'DEN', 'ECO', 'MMA', 'COM', 'PRE', 'NDE'}
+BIOCLIMATOLOGIE : 0.30% {'BIO', 'LIM', 'IOC', 'IMA', 'OGI'}
+BRINQUEBALAI : 0.30% {'INQ', 'EB', 'BAL', 'ALA', 'NQU', 'LAI'}
+REEMPLOYAI : 0.30% {'REE', 'OY', 'YAI', 'MPL'}
+RENFORMISSEZ : 0.30% {'RMI', 'SEZ', 'NF', 'NFO', 'MIS'}
+RONEOTYPENT : 0.30% {'YP', 'YPE', 'TYP', 'PEN', 'NEO', 'TY'}
+ABASOURDIRIEZ : 0.26% {'IRI', 'ASO', 'BAS', 'URD'}
+ANALPHABETE : 0.26% {'ETE', 'LP', 'NAL', 'PHA'}
+ANNECIEN : 0.26% {'NEC', 'ANN', 'ECI', 'CIE'}
+CENTIGRADE : 0.26% {'CEN', 'RAD', 'IGR', 'TIG', 'ADE'}
+CONCATENIONS : 0.26% {'NCA', 'ENI', 'NIO', 'CAT', 'ONC'}
+CORNEILLARDS : 0.26% {'RNE', 'ARD', 'COR', 'ORN', 'DS'}
+DUSSELDORF : 0.26% {'RF', 'ORF', 'DU', 'USS', 'SEL'}
+ENTHOUSIASMAS : 0.26% {'ASM', 'MAS', 'IAS', 'OUS', 'HOU', 'THO'}
+INVRAISEMBLABLE : 0.26% {'MBL', 'VRA', 'INV', 'NV', 'LAB'}
+REMPAQUETAT : 0.26% {'MPA', 'TAT', 'UET', 'REM', 'ETA'}
+ANTHROPOGENESE : 0.21% {'HR', 'ESE', 'GEN', 'OPO'}
+CLAUSTROMANIE : 0.21% {'OMA', 'LAU', 'AUS', 'CLA', 'UST'}
+DISSIMILITUDE : 0.21% {'SIM', 'UD', 'IMI', 'LIT', 'MIL'}
+ENCOUBLAS : 0.21% {'UBL', 'NCO', 'OUB', 'LAS'}
+EXCLUSIVITE : 0.21% {'LUS', 'EXC', 'LU', 'SIV', 'VIT'}
+EXPIANT : 0.21% {'PIA', 'EXP', 'IAN', 'XPI'}
+HYDROFUGEAI : 0.21% {'FU', 'DRO', 'FUG', 'EAI', 'YD'}
+INFLECHISSABLE : 0.21% {'HIS', 'INF', 'FLE', 'ECH', 'SAB'}
+OBSTINAMES : 0.21% {'BS', 'OBS', 'NAM', 'BST', 'TIN'}
+SKICROSS : 0.21% {'ROS', 'KI', 'OSS', 'SK'}
+XEROPHTALMIE : 0.21% {'MIE', 'PHT', 'XER', 'LM', 'OPH'}
+ALLEGRETTOS : 0.17% {'GRE', 'TOS', 'ALL'}
+AZOTEUSE : 0.17% {'ZO', 'TEU', 'OTE', 'AZ'}
+BRAVACHES : 0.17% {'RAV', 'VAC', 'BRA', 'HES'}
+CHINOISIEZ : 0.17% {'ISI', 'HIN', 'OIS', 'NOI'}
+COQUELICOTS : 0.17% {'OTS', 'OQU', 'LIC', 'COT'}
+CRUCIAL : 0.17% {'CRU', 'UCI', 'RUC', 'CIA'}
+DECARCERATION : 0.17% {'RCE', 'CER', 'ECA'}
+DEGUERPIMES : 0.17% {'UER', 'IME', 'ERP'}
+ENRUBANNAGE : 0.17% {'BAN', 'UBA', 'NRU', 'NAG'}
+ETHNONYME : 0.17% {'ONY', 'ETH', 'HN', 'YME'}
+GARGOUILLIEZ : 0.17% {'RGO', 'GOU', 'LLI'}
+HOMME-SANDWICH : 0.17% {'WI', 'MME', 'HOM'}
+PERIPHRASA : 0.17% {'IPH', 'RIP', 'ASA', 'PHR'}
+PSEUDOPSEUDOHYPOPARATHYROIDIE : 0.17% {'POP', 'PS', 'SEU', 'OPS'}
+RADIOGUIDAI : 0.17% {'IOG', 'GUI', 'DAI', 'ADI'}
+RENFROGNIEZ : 0.17% {'OGN', 'FRO', 'ROG', 'GNI'}
+AEROTRANSPORTE : 0.13% {'RTE', 'NSP'}
+AFFOURCHAI : 0.13% {'FOU', 'HAI'}
+ATTENUAI : 0.13% {'ATT', 'ENU', 'UAI'}
+BATAYOLE : 0.13% {'AY', 'YO', 'BAT'}
+BIVOUAQUIEZ : 0.13% {'QUI', 'VOU', 'IVO'}
+CASEATION : 0.13% {'ASE', 'SEA', 'EAT'}
+COLCHIQUE : 0.13% {'COL', 'OLC', 'HIQ'}
+DEMULTIPLEXAI : 0.13% {'MUL', 'IPL', 'XAI'}
+DEVIERGEAS : 0.13% {'EVI', 'VIE', 'EAS'}
+ENLIA : 0.13% {'NLI', 'NL', 'LIA'}
+LEPIDOSAURIEN : 0.13% {'PID', 'LEP', 'OSA'}
+PYROSULFURIQUE : 0.13% {'LF', 'PY', 'ULF'}
+QUALIFICATIF : 0.13% {'UAL', 'TIF', 'LIF'}
+RECIDIVENT : 0.13% {'DIV', 'VEN', 'CID'}
+ACCOMMODAT : 0.09% {'MMO', 'DAT'}
+ADVERBAUX : 0.09% {'BAU', 'ERB'}
+AFFERMONS : 0.09% {'FFE', 'RMO'}
+AFFRICHEE : 0.09% {'HEE', 'FRI'}
+ALEXITHYMIE : 0.09% {'HYM', 'XI'}
+ALGUAZIL : 0.09% {'ZI', 'LGU'}
+AMPELOLOGIE : 0.09% {'MPE', 'LOL'}
+AMPULLAIRE : 0.09% {'ULL', 'MPU'}
+ANEVRYSMAL : 0.09% {'RYS', 'EVR'}
+ANOPLOTHERIUM : 0.09% {'LOT', 'RIU'}
+APERCURENT : 0.09% {'RCU', 'CUR'}
+APOCALYPSE : 0.09% {'OCA', 'LYP'}
+ARAWAK : 0.09% {'AWA', 'WA'}
+AUTOPERSUASION : 0.09% {'ASI', 'SUA'}
+BAGGYS : 0.09% {'AGG', 'GYS'}
+BELVEDERE : 0.09% {'LVE', 'VED'}
+BONHEUR-DU-JOUR : 0.09% {'JOU', 'NH'}
+CITADELLE : 0.09% {'DEL', 'TAD'}
+CONTREPLAQUA : 0.09% {'LAQ', 'EPL'}
+CONTREPROJET : 0.09% {'OJ', 'EPR'}
+COORGANISA : 0.09% {'ORG', 'COO'}
+DANEMARK : 0.09% {'ARK', 'EMA'}
+DEFRAGMENTA : 0.09% {'FRA', 'GME'}
+DEPENDIT : 0.09% {'DIT', 'EPE'}
+DESEQUIPA : 0.09% {'UIP', 'SEQ'}
+EVELYNE : 0.09% {'YN', 'VEL'}
+EXTENSOMETRE : 0.09% {'SOM', 'XT'}
+FLUVIOGLACIAIRE : 0.09% {'GLA', 'UVI'}
+HIRUNDINIDE : 0.09% {'RUN', 'IRU'}
+INJECTRICE : 0.09% {'CTR', 'INJ'}
+INOBSERVABLE : 0.09% {'RVA', 'NOB'}
+NAQUIRENT : 0.09% {'NAQ', 'UIR'}
+PAUMOIE : 0.09% {'OIE', 'PAU'}
+POSTHYPOPHYSE : 0.09% {'HYS', 'STH'}
+ZEZAYA : 0.09% {'AYA', 'ZE'}
+ABOYIEZ : 0.04% {'OYI'}
+ABREGEMENT : 0.04% {'GEM'}
+ABROGEABLE : 0.04% {'EAB'}
+ACCOUPLA : 0.04% {'UPL'}
+ACRIDIDE : 0.04% {'CRI'}
+ACTINOMORPHE : 0.04% {'RPH'}
+ADJOIGNAIENT : 0.04% {'OIG'}
+AIGLEFIN : 0.04% {'EFI'}
+ALIBOUFIER : 0.04% {'OUF'}
+AMISHS : 0.04% {'SHS'}
+AMPICILLINE : 0.04% {'MPI'}
+ARDEIDE : 0.04% {'DEI'}
+AUCUBA : 0.04% {'UCU'}
+AUTOFECONDATION : 0.04% {'TOF'}
+AUTOSUGGESTION : 0.04% {'GGE'}
+AVANT-VEILLE : 0.04% {'VEI'}
+AVULSION : 0.04% {'AVU'}
+BERQUINADE : 0.04% {'ERQ'}
+BOUSQUET : 0.04% {'USQ'}
+CATAFALQUE : 0.04% {'TAF'}
+CHEWING-GUM : 0.04% {'EW'}
+CYTOKINE : 0.04% {'TOK'}
+EXHALA : 0.04% {'XH'}
+FOG : 0.04% {'FOG'}
+HEZBOLLAH : 0.04% {'ZB'}
+INSOUPCONNABLE : 0.04% {'PC'}
+LAMBDA : 0.04% {'MBD'}
+OUTPLACEMENT : 0.04% {'TPL'}
+ZAWIYA : 0.04% {'ZAW'}
