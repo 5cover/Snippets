@@ -46,6 +46,7 @@ class Args:
     log: Callable[..., None]
     mode: str
     max_bitrate: float
+    quality: Optional[str]
     onerror: str
     output_encoder: Optional[str]
     output_files: Optional[Sequence[str]]
@@ -56,7 +57,7 @@ class Args:
     def ffmpeg(
             self, args: Sequence[str],
             *, allow_failure=False, stdout: FILE = None, stderr: FILE = None, capture_output: bool = False) -> sp.CompletedProcess:
-        args = (self.ffmpeg_path,) + args + self.global_opts
+        args = (self.ffmpeg_path,) + self.global_opts + args
         if self.set_x_mode:
             print('+', sp.list2cmdline(args), file=sys.stderr)
         cp = sp.run(args, stdout=stdout, stderr=stderr, capture_output=capture_output)
@@ -112,6 +113,9 @@ def ffmpeg_io(args: Args, audio: AudioInfo, in_f: str, out_f: str,
             *pre_output_args, out_f)
         if args.output_encoder:
             ffmpeg_args += '-c:a', args.output_encoder
+        if args.quality:
+            ffmpeg_args += '-q:a', args.quality
+
         return args.ffmpeg(ffmpeg_args, stdout=sp.PIPE, stderr=sp.PIPE)
 
     return ffmpeg_io_2_pass(
@@ -197,12 +201,12 @@ if __name__ == '__main__':
     parser.add_argument('input', nargs='+', help='input files')
     parser.add_argument(
         '-o', '--output', nargs='+', required=True,
-        help='output files. If unspecified, no normalization is done, but information about the target volume is still displayed. If there is only one output file and it is a directory, the input file names will be reused.')
+        help='output files. If unspecified, no normalization is done, but information about the target volume is still displayed. If there is only one output file and it is non-existent or a directory, it is treated as a directory and the input file names will be reused relatively to it.')
     parser.add_argument('-c', '--encoder', help='output encoder')
+    parser.add_argument('-q', '--quality', help='quality (-q:a) argument')
     parser.add_argument('--ext', help="Target extension (including leading dot) to replace output file extensions with.")
     parser.add_argument('--ffmpeg-path', default=shutil.which('ffmpeg'), help='ffmpeg executable path')
-    parser.add_argument('-q', '--quiet', action='store_true', help='quiet output')
-    parser.add_argument('-x', action='store_true', help="print every ffmpeg call ('set -x' mode)")
+    parser.add_argument('-x', action='store_true', help="print every ffmpeg invocation ('set -x' mode)")
     parser.add_argument('-c:d', action='store_true', dest='c_d', help='copy the video streams')
     parser.add_argument('-c:s', action='store_true', dest='c_s', help='copy the subtitle streams')
     parser.add_argument('-c:v', action='store_true', dest='c_v', help='copy the data streams')
@@ -222,10 +226,10 @@ if __name__ == '__main__':
 
     a = parser.parse_args()
 
-    log = (lambda *_: None) if a.quiet else functools.partial(print, file=sys.stderr)
+    log = functools.partial(print, file=sys.stderr)
 
     if a.output:
-        if len(a.output) == 1 and path.isdir(a.output[0]):
+        if len(a.output) == 1 and (not path.exists(a.output[0]) or path.isdir(a.output[0])):
             output_dir = path.abspath(a.output[0])
             common_head = path.commonpath(map(path.abspath, a.input))
             output_files = tuple(path.join(output_dir, path.relpath(input_file, common_head)) for input_file in a.input)
@@ -238,7 +242,8 @@ if __name__ == '__main__':
         if a.ext:
             output_files = tuple(path.splitext(o)[0] + a.ext for o in output_files)
     else:
-        output_dir = tuple()
+        output_files = tuple()
+
     try:
         normalize_volume(Args(input_files=a.input,
                               output_files=output_files,
@@ -246,6 +251,7 @@ if __name__ == '__main__':
                               ffmpeg_path=a.ffmpeg_path,
                               set_x_mode=a.x,
                               onerror=a.onerror,
+                              quality=a.quality,
                               log=log,
                               max_bitrate=a.max_bitrate,
                               mode=a.mode,
