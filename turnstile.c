@@ -45,7 +45,7 @@ int main()
         } else if (strcmp(input, "coin") == 0) {
             currentState = g_transitions[Event_Coin][currentState];
         } else {
-            printf("%s", input);
+            puts(input);
             return EXIT_SUCCESS;
         }
 

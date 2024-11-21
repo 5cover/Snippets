@@ -6,6 +6,7 @@ Contains fun creations, random thoughts put into lines of code, learning initiat
 
 snippet|description
 -|-
+[argc.c](argc.c)|A tiny utility that prints the number of arguments it was passed
 [c99_dynamic_matrix.c](c99_dynamic_matrix.c)|Matrix creation macros
 [center_reduce.py](center_reduce.py)|Center-reduce data
 [enclosedArray.c](enclosedArray.c)|A C array abstraction
@@ -20,6 +21,7 @@ snippet|description
 [initializers.c](initializers.c)|Showcase of C initializer value order
 [CC#](CC%23)|C with C# syntax
 [factorio-sushi](factorio-sushi)|Factorio sushi belt simulator
+[uuid-convert.py](uuid-convert.py)|Convert an UUID to hex format
 [JKLM](JKLM)|Analysis of the best words to use in JKLM Bomb Party
 [SICP](SICP)|My read of *Structure And Interpretation of Computer Programs*
 [Smalltalk](Smalltalk)|Learning Smalltalk
