@@ -7,6 +7,7 @@ Contains fun creations, random thoughts put into lines of code, learning initiat
 snippet|description
 -|-
 [argc.c](argc.c)|A tiny utility that prints the number of arguments it was passed
+[bin.js](bin.js)|JS function that bins a number range into amounts for each integer
 [c99_dynamic_matrix.c](c99_dynamic_matrix.c)|Matrix creation macros
 [center_reduce.py](center_reduce.py)|Center-reduce data
 [enclosedArray.c](enclosedArray.c)|A C array abstraction
