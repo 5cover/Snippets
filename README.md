@@ -23,6 +23,7 @@ snippet|description
 [CC#](CC%23)|C with C# syntax
 [factorio-sushi](factorio-sushi)|Factorio sushi belt simulator
 [uuid-convert.py](uuid-convert.py)|Convert an UUID to hex format
+[max3.c]|max(a,b,c). No, it's not max(a, max(b, c))
 [JKLM](JKLM)|Analysis of the best words to use in JKLM Bomb Party
 [SICP](SICP)|My read of *Structure And Interpretation of Computer Programs*
 [Smalltalk](Smalltalk)|Learning Smalltalk
